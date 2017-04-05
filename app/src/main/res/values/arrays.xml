@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="speed_entry">
+        <item>x0.25</item>
+        <item>x0.5</item>
+        <item>x1.0</item>
+        <item>x2.0</item>
+        <item>x4.0</item>
+    </string-array>
+    <integer-array name="speed_entry_value">
+        <item>25</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>400</item>
+    </integer-array>
+    <integer name="speed_default">2</integer>
+</resources>
